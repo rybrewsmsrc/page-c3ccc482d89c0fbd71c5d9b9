@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ac9732c9419f823d25532e2f",
+  "owner": "rybrewsmsrc",
+  "repo": "page-c3ccc482d89c0fbd71c5d9b9",
+  "title": "优游互联(UU)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c3ccc482d89c0fbd71c5d9b9",
+      "a": "优游互联(UU)",
+      "b": "机场官网线路发布页",
+      "entity": "优游互联(UU)",
+      "brand": "优游互联(UU)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f35f03303e6e96982352f5ca5cac3bf2c4f64605d0c8d697f593b836934125fa",
+      "content": {
+        "primary_entity": "优游互联(UU)",
+        "keyword1": "优游互联(UU)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型挑选对应客户端，再导入订阅即可开始使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据日常设备数量与流量需求选择合适套餐，再按客户端文档完成订阅配置即可。",
+          "AI_CLOSING_TITLE": "选好套餐，配置订阅",
+          "AI_DESCRIPTION": "，围绕海外加速场景提供基础版、旗舰版与团队版三档订阅方案，月付与年付灵活可选。设备较少、流量需求轻度的用户可从基础版起步；多设备同时在线或需要流媒体解锁与游戏加速优化的，可选旗舰版；团队协作或设备数量较多的场景适合团队版。各档套餐在流量、设备数量与节点权限上有明确区分，按年付均比月付更省。",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。设备数量通常按同时连接计算，切换设备不影响已用流量。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版300GB，团队版1000GB。流量月底清零，不累计到下月，按需选择档位即可。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供IPLC专线游戏加速优化与全节点原生流媒体解锁，基础版解锁基础流媒体，团队版配备VIP专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "年付比月付划算。基础版年付150元，旗舰版年付350元，团队版年付850元，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "各档套餐针对不同使用场景设计，用户可根据设备数量、流量需求与节点偏好自行选择合适的方案。",
+          "AI_FAQ_INTRO": "套餐对比、客户端适配与订阅配置。",
+          "AI_FAQ_QUESTION_1": "套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "各档套餐的月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版在节点上有什么优势？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_5": "如何判断自己适合哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度快速了解优游互联的使用方式。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻度使用，旗舰版覆盖流媒体与游戏加速，团队版面向多设备协作。",
+          "AI_FEATURE_TEXT_2": "基础版3台、旗舰版5台、团队版20台，按日常同时在线设备数选择对应档位。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版150元/年、旗舰版350元/年、团队版850元/年。",
+          "AI_FEATURE_TITLE_1": "套餐档位清晰",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "优游互联(UU)提供海外加速订阅服务，按设备数量与流量需求划分基础版、旗舰版和团队版三档方案。用户可根据日常使用场景选择合适套餐，并参考对应客户端文档完成订阅导入。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "月付年付灵活选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版游戏加速优化",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备，支持IPLC专线游戏加速与流媒体解锁；团队版每月1000GB、20台设备，配备VIP高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量和月流量需求，在基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐权益是否匹配，例如流媒体解锁或游戏加速需求。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档完成订阅导入与连接配置，不同平台操作方法略有差异。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "优游互联(UU)加速订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "frksfoe.cn",
+    "host": "frksfoe.cn"
+  },
+  "file_hashes": {
+    "index.html": "49ee8b7483d953fd3a8ccc37f076a15ba92ae9c43365a4bf4cbd9500713344c6",
+    "sitemap.xml": "bfbe554af4de6eccf9da3933f822874ccfa843eec3b480725d1de3d62fb615a0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "daa45d86b8a7bb24fb449646a379914c5b5b673fad5ec691aba595e93248be1a",
+    "robots.txt": "164f954a86f49974be450f510310b8a32c3366884be72293deda50d16ff25b4e",
+    "2f1130172135ca257d4fe468b7c6ae39.txt": "6759559a4a5dff592e51a5e15cdc46eb809a3002ebee41445bf19acf1350a897"
+  },
+  "revision": "76dfe4e86611b6877e41facbe9c37254b933df0855b9f48dcc76b876d0bf3b7f"
+}
